@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/home">
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.filtrain.MainFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_main" />
+
+    <activity
+        android:id="@+id/inscription"
+        android:name="com.example.filtrain.SignUpActivity"
+        android:label="Inscription"
+        tools:layout="@layout/activity_sign_up2" />
+    <activity
+        android:id="@+id/connexion"
+        android:name="com.example.filtrain.LoginActivity"
+        android:label="Connexion" />
+
+    <activity
+        android:id="@+id/parametres"
+        android:name="com.example.filtrain.ParametresActivity"
+        android:label="Paramètres"
+        tools:layout="@layout/parametres_activity" />
+
+    <activity
+        android:id="@+id/comparateur"
+        android:name="com.example.filtrain.WebViewActivity"
+        android:label="Comparateur"
+        tools:layout="@layout/activity_web_view" />
+
+    <activity
+        android:id="@+id/profil"
+        android:name="com.example.filtrain.ProfilActivity"
+        android:label="Profil" />
+
+    <activity
+        android:id="@+id/deconnexion"
+        android:name="com.example.filtrain.DeconnexionActivity"
+        android:label="Déconnexion" />
+    <activity
+        android:id="@+id/prochainPassage"
+        android:name="com.example.filtrain.ProchainPassageActivity"
+        android:label="Prochains Passages"
+        tools:layout="@layout/activity_prochainpassage" />
+
+</navigation>

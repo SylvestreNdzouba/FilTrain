@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/accueil"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/connexion"
+        android:title="@string/login"
+        android:icon="@drawable/ic_person"/>
+
+    <item
+        android:id="@+id/inscription"
+        android:title="@string/signUp"
+        android:icon="@drawable/ic_inscrip"/>
+
+    <item
+        android:id="@+id/profil"
+        android:title="@string/profil"
+        android:icon="@drawable/ic_person_pin"/>
+
+    <item
+        android:title="@string/prochainPassage"
+        android:id="@+id/prochainPassage"
+        android:icon="@drawable/ic_train"/>
+
+    <item
+        android:id="@+id/deconnexion"
+        android:title="@string/deconnexion"
+        android:icon="@drawable/ic_logout"/>
+
+    <item
+        android:title="@string/comparateur"
+        android:id="@+id/comparateur"
+        android:icon="@drawable/ic_compare"/>
+
+    <item
+        android:id="@+id/parametres"
+        android:title="@string/parametres"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>

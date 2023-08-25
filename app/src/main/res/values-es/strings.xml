@@ -1,0 +1,58 @@
+<resources>
+    <!-- Strings related to app -->
+    <string name="app_name">FilTrain</string>
+    <string name="nom">FilTrain</string>
+    <string name="laphrase">Busca viajes, viajes y más...</string>
+    <string name="accueil">Inicio</string>
+    <string name="depart">Ciudad de salida</string>
+    <string name="arrivée">Ciudad de Llegada</string>
+    <string name="heureDepart">Hora de salida</string>
+    <string name="date">Seleccione fecha</string>
+    <string name="btn">Validar</string>
+    <string name="bienvenu">Bienvenido a FilTrain</string>
+
+    <string name="billetterie">Venta de entradas</string>
+    <string name="comparateur">Comparador</string>
+    <string name="prochainPassage">Siguiente Paso</string>
+    <string name="aboutUs">A propósito de nosotros</string>
+    <string name="us">Esta aplicación fue desarrollada por Ahí y Sylvestre como parte de un proyecto de fin de año.
+        Dos estudiantes en L3 año de licencia informática en la Universidad de Tours.</string>
+
+    <!-- Strings related to login -->
+    <string name="login">Conectarse</string>
+    <string name="signUp">Inscribirse</string>
+    <string name="loginRedirect">Ya inscrito ? Conectarse</string>
+    <string name="signupRedirect">No registrado? Inscribirse</string>
+    <string name="deconnexion">Cerrar sesión</string>
+
+    <string name="profil">Mi perfil</string>
+
+    <!-- Strings related to settings -->
+    <string name="parametres">Configuraciones</string>
+    <string name="param">Ajustes de Aplicacion</string>
+    <string name="param2">Defina sus características</string>
+    <string name="langue">Establecer el idioma de la aplicación</string>
+    <string name="defLangue">Elegir lenguaje</string>
+    <string name="english">English (En)</string>
+    <string name="spanish">Español (Es)</string>
+    <string name="french">Francés (Fr)</string>
+
+    <!-- Text à traduire-->
+    <string name="tabitem_departures">Départs</string>
+    <string name="tabitem_arrivals">Arrivées</string>
+    <string name="date_depart">On est le ...</string>
+    <string name="heure_depart">Il est ...</string>
+    <string name="date_arrivee">... le ...</string>
+    <string name="heure_arrivee">Il est ...</string>
+    <string name="proPassage">Prochains passages</string>
+    <string name="btnPassage">Valider</string>
+    <string name="textItineraire">Résultats itinéraires</string>
+    <string name="textTrajet">Trajet</string>
+    <!-- Description -->
+    <string name="description_tablayout">Tab Layout</string>
+    <string name="description_viewpager">View Pager</string>
+    <string name="textVilleDep">Lieu de départ : ...</string>
+    <string name="textVilleDes">Lieu de destination : ...</string>
+    <string name="horairesTrajets">15:38 - 17:39</string>
+
+</resources>

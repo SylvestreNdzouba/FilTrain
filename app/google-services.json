@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756078485063",
+    "project_id": "filtrain-749a3",
+    "storage_bucket": "filtrain-749a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756078485063:android:c7dcbe0fbc041d38b8db62",
+        "android_client_info": {
+          "package_name": "com.example.filtrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756078485063-bdf4kar8ba8p1jki4oj16etvolei5pjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fksckHP5fUQ6IVo-UvyihUZ0JUMAHFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756078485063-bdf4kar8ba8p1jki4oj16etvolei5pjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
